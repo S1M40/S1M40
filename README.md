@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-khaki-one.vercel.app/api/spotify-playing" alt="Simão Spotify Playing" width="350" />](https://open.spotify.com/user/hhvscpqrhul3xbzamj9kaic5t)
+[<img src="https://novatorem-khaki-one.vercel.app/api/spotify" alt="Simão Spotify Playing" width="350" />](https://open.spotify.com/user/hhvscpqrhul3xbzamj9kaic5t)
 
 
 ### Connect with me:
