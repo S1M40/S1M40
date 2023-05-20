@@ -4,10 +4,10 @@
 
 ## I'm a Student, Developer and Gamer!!
 
-- 👨‍ I´m 19 years old.
+- 👨‍ I´m 20 years old.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects, and learn bunch of new languages
+- 🥅 2023 Goals: Contribute more to Open Source projects, and learn bunch of new languages
 
 
 ### Spotify Playing 🎧
