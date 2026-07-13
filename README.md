@@ -4,15 +4,10 @@
 
 ## I'm a Student, Developer and Gamer!!
 
-- 👨‍ I´m 20 years old.
+- 👨‍ I´m 23 years old.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects, and learn bunch of new languages
-
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-khaki-one.vercel.app/api/spotify" alt="Simão Spotify Playing" width="350" />](https://open.spotify.com/user/hhvscpqrhul3xbzamj9kaic5t)
+- 🥅 2026 Goals: Contribute more to Open Source projects, and learn python. Currently on track to be a DevOps Engineer.
 
 
 ### Connect with me:
@@ -22,8 +17,6 @@
 
 <br />
 <br />
-
-
 
 
 
