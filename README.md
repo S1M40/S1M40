@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/S1M40/S1M40/main/logos/discord.svg" width="32" height="32" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_.simas016._/" target="_blank">
+  <a href="https://www.instagram.com/_.s1m40._" target="_blank">
     <img src="https://raw.githubusercontent.com/S1M40/S1M40/main/logos/instagram-icon.svg" width="32" height="32" alt="Instagram" />
   </a>
 </p>
