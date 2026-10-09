@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Place S1M40-readme-banner.png in your repository root or an /assets folder -->
-  <img src="S1M40-readme-banner.png" alt="S1M40 Visual Banner" width="100%" />
+  <img src="logos/S1M40-readme-banner.png" alt="S1M40 Visual Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Simão (S1M40) 👋</h1>
